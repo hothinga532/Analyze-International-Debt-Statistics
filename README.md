@@ -1,5 +1,4 @@
 # Analyze-International-Debt-Statistics
-Datacamp study project
 
 ## 1. The World Bank's international debt data
 <p>It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. <a href="https://www.worldbank.org">The World Bank</a> is the organization that provides debt to countries.</p>
